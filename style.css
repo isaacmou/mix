@@ -44,6 +44,10 @@ body {
     position: relative;
     text-align: right;
 }
+#DistrictArea {
+    position: relative;
+    text-align: left;
+}
 
 /*banner*/
 .demo-wrap {
